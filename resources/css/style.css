@@ -22,7 +22,8 @@ p {
 #copyright {
   text-align: right;
 }
-#link {
+a {
   color: Aquamarine;
   font-size: 16px;
+  font-weight: normal;
 }
